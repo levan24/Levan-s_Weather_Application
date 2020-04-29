@@ -1,0 +1,1 @@
+export const OPEN_KEY = '76dc3c2357c096b0f5e4ae5490f7f2be';

@@ -1,1 +1,3 @@
 Weather app. consists of 2 pages "Home & Search"  Home: here is given infos about City, its Flag, sunrise and sunset and weather incomplete description. according to sunrise and sunset time the background GIF changes. Every 6 mins and 40 secs app's info is being updated.   With swipe function you can go to the second page "Search". here you can search any city and versions by autocomplete function. the chosen city can be saved with the button "choose". after choosing the city the app returns to its first page.
+
+![swipe bottomColorChange](https://user-images.githubusercontent.com/38010166/80748305-c56cf080-8b35-11ea-892f-fc628162f23d.gif)
